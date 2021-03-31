@@ -1,1 +1,3 @@
 Hello! This was a task to clone an empty repository that I just made at Github into a local directory. I had to set up a new SSH key because I forgot the passphrase for my old one and without it I couldn't proceed with the cloning. 
+
+Later on, I did a task where I had to recreate the Google Homepage. It was kinda fun and challenging. Developer tools of chrome really helped a lot in copying some of the resources and styles. My final product was not an exact replica but I'm kinda proud of it. I'll do better on the next task.
